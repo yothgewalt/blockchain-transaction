@@ -21,3 +21,8 @@
 ```
 python <pathfile> 
 ```
+## Requirements
+If you don't have a librarys to use for this file, you can use it to download it.
+```
+pip install -r requirements.txt
+```
